@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "tailor-pro-292fa",
+    "  tailor-pro-292fa": "committee-app-11cf8",
+    "tailor": "tailor-pro-292fa"
+  },
+  "targets": {},
+  "etags": {}
+}
